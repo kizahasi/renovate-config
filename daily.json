@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "github>kizahasi/renovate-config",
+        "schedule:daily"
+    ]
+}
